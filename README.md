@@ -5,7 +5,9 @@
 執行有遇到問題的話可以去置頂的 issue 看一下～
 
 ### 下載專案進行轉換
-
+```
+https://docs.google.com/presentation/d/1Tuk3ZizgWgXsMWPH12Wvu_FQ3ABVpFf_/edit
+```
 ```
 git clone https://github.com/chiaoooo/PngToTTF
 mkdir svg_separate
