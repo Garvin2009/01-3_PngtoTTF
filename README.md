@@ -86,5 +86,5 @@ node readfile.js
 ### 完成 !
 
 ```
-https://docs.google.com/presentation/d/1Tuk3ZizgWgXsMWPH12Wvu_FQ3ABVpFf_/edit
+https://docs.google.com/presentation/d/1UKo92kC_SVXhQ2JUtdgKZ9FHN2HSpEha/edit?slide=id.p39#slide=id.p39
 ```
